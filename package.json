@@ -18,7 +18,9 @@
   "homepage": "https://github.com/along101/nodejs-demo#readme",
   "description": "",
   "devDependencies": {
+    "@types/node": "^16.4.13",
     "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1"
+    "babel-preset-es2015": "^6.24.1",
+    "tslib": "^2.3.0"
   }
 }
